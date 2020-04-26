@@ -1,0 +1,5 @@
+ 6  1  3  1  1  1.d-07    ! z, ion, n subsh, free, iut, eps 5i3,f10.6      
+  1  0  2  6.400d+01       ! n l k(numb electrons)  Eion(Ry) 3i3,f11.3
+  2  0  2  3.200d+01
+  2  1  2  3.200d+01
+  0    0.01     0.1     1.8    ! lc, emin, del, emax (Ry)  i3, 3f8.4
